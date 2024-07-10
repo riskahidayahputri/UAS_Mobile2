@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044394342617",
+    "project_id": "kas-rt-07",
+    "storage_bucket": "kas-rt-07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044394342617:android:e0089d1e4623aa15cf26c8",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXOSSiUzNHO-GAwiPW1v1EvdgFeSCUksQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
