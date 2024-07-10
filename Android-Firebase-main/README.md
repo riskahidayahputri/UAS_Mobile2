@@ -1,9 +1,9 @@
 # Android-Firebase
 Repository ini dibuat untuk memenuhi tugas UAS  - Pemrograman Mobile
 
-Nama    :   Aditya Achya Ananta Nur
+Nama    :   Riska Hidayah Putri
 
-Nim     :   312210714
+Nim     :   312210102
 
 Kelas   :   TI.22.B1
 
@@ -22,7 +22,7 @@ Kelas   :   TI.22.B1
 ![Screenshot 2024-07-08 223444](https://github.com/AdityaAchya/Android-Firebase/assets/123864099/081f80fd-c86f-49f3-aef6-bebc8419e640)
 
 ## LINK YOUTUBE PENJELASAN FITUR-FITUR 
-https://youtu.be/bTdUS-RxAas
+
 
 ## Penjelasan
 [Project mobile kelompok 6_Kas RT.pdf](https://github.com/user-attachments/files/16131486/Project.mobile.kelompok.6_Kas.RT.pdf)
